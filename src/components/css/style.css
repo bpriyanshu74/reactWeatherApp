@@ -1,0 +1,34 @@
+body{
+  overflow: hidden;
+}
+.d{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(#B993D6,#8CA6DB);  
+  height:100vh;
+  width:100%;
+}
+
+.box{  
+  width:20%;
+  height:40vh;
+  padding:5rem;
+  text-align:center;
+  background-color:rgb(219, 219, 250);
+  border-radius: 3rem;  
+  font-family: 'Molengo';
+}
+.search-bar{
+  height:10vh;
+}
+.search-input {
+  height: 1.8rem;
+  width:80%;
+  border:none;
+  padding:0.3rem;
+  border-radius:5rem;
+}
+h1,h2,h3{
+  color:rgb(19, 26, 34)
+}
